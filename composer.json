@@ -1,0 +1,15 @@
+{
+    "name": "berserkersystems/filesystem",
+    "type": "library",
+    "description": "File System Component",
+    "keywords": [],
+    "homepage": "https://berserker.systems",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Louis Doyle",
+            "email": "louis.doyle@berserker.systems",
+            "homepage": "https://louisdoyle.com"
+        }
+    ]
+}
